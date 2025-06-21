@@ -10,7 +10,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border: 1px solid #ffffff;
+  border: 1px solid #000000;
   background-color: #000000;
 }
 
@@ -22,8 +22,8 @@ li a {
   display: block;
   color: #ffffff;
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  padding: 20px 60px;
+  text-decoration: center;
 }
 
 li a:hover:not(.active) {

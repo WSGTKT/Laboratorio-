@@ -10,8 +10,8 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border: 1px solid #ffffff;
-  background-color: #000000;
+  border: 1px solid #000000;
+  background-color: #fed285;
 }
 
 li {
@@ -31,6 +31,6 @@ li a:hover:not(.active) {
 }
 
 li a.active {
-  color: white;
+  color: rgb(255, 255, 255);
   background-color: #000000;
 }
